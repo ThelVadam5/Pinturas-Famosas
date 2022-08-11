@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap" rel="stylesheet">
+    <title>Lsta de imagenes</title>
+  </head>
+   <body>
+     <h1>PINTURAS FAMOSAS</h1>
+     <div>
+     <ul>
+       <li>
+         <img  src="https://personales.unican.es/crespoj/senior/Anders_Askevold__Norwegian_Fjord_Landscape.png"> 
+         <span title= "Askevold Anders"><b>Paisaje de un fiordo noruego</b></span>
+       </li> <br>
+        
+       
+       <li>
+         <img src="https://personales.unican.es/crespoj/senior/Anderson_Sophie__The_Time_Of_The_Lilacs.png"> 
+         <span title= "Sophie Anderson"><b>Tiempo de lilas</b> </span>
+       </li> <br>
+       
+       <li>
+         <img src="https://personales.unican.es/crespoj/senior/Blake__the_Ancient_of_Days.png">
+       <span title="Blake"><b>El anciano</b></span>
+       </li> <br>
+       
+       <li>
+         <img src="https://personales.unican.es/crespoj/senior/Bloch__Sermon_on_the_Mount.png">
+         <span title="Bloch"><b>El cermon en la montaña</b></span>
+         </li> <br>
+       
+       <li>
+         <img src="https://personales.unican.es/crespoj/senior/Boris_Kustodiyev__Morning.png">
+         <span title="Boris Kustodiyev"><b>La mañana</b></span>
+              </li> <br>
+         
+       <li>
+         <img src="https://personales.unican.es/crespoj/senior/Cole_Thomas__Cora_Kneeling_(from_Last_of_the_Mohicans).png">
+         <span title="Thomas Cole"><b>Cora arrodillada</b></sapan>
+         </li> <br>
+       
+       <li>
+         <img src="https://personales.unican.es/crespoj/senior/Courbet__the_Stormy_Sea.png">
+         <span title="Courbet"><b>Tormenta en el mar</b></span>
+         </li> <br>
+       
+       <li>
+         <img src="https://personales.unican.es/crespoj/senior/David__Death_of_Socrates.png">
+         <span title="David"><b>La merte de Socrates</b></span>
+         </li> <br>
+       
+       <li>
+         <img src="https://personales.unican.es/crespoj/senior/Da_Vinci___Last_Supper.png">
+         <span title="Leonardo Da Vinci"><b>La ultima cena</b></span>
+         </li> <br>
+       
+       <li>
+         <img src="https://personales.unican.es/crespoj/senior/Degas__Dancing_Class.png">
+         <span title="Degas"><b>Clase de baile</b></span>
+         </li> <br>
+       
+       </ul>
+     </div>
+       </body>
+     </html>
